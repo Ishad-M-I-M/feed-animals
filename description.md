@@ -5,7 +5,7 @@ It should be possible to feed the animals:)
 A list of animals is available at: https://animals.azurewebsites.net/api/animals 
 You need to download the animals to your application and save them in the application. It will not be possible to change the animals via the api. It is suggested that you store them in localStorage or sessionStorage.
 
-For G: 
+For the project: 
 * Create a SPA (in react with typescript) that contains a start page where the animals are presented with a name and a short description. 
 
 * It should be possible to click on an animal to see more information about this animals via a separate route. 
@@ -18,7 +18,8 @@ For G:
 
 * Your code should be very well structured and in cases where you can not, optimize the code by making it more compact than it was before.
 
-* Uses are of stylized components.
+* Use stylized components.
 
-### A fiverr project 
 reference: https://github.com/sebastiantegel/java21.git
+
+- Done as a freelance project
